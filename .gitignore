@@ -1,6 +1,9 @@
 # Specific to this project
 /Tests
+tests_*.py
 /Wireframes
+.project
+.pydevproject
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
